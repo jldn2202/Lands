@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="Views\Donde estan las perras\" />
+    <Folder Include="ViewModels\Perrita\" />
   </ItemGroup>
 
   <ItemGroup>
